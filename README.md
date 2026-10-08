@@ -15,7 +15,7 @@ Kalkulator Harga Pokok Penjualan (HPP) untuk produk kopi, bertema kedai Anteiku 
 Butuh PHP 8.0 atau lebih baru.
 
 ```bash
-git clone https://github.com/USERNAME/anteiku-hpp.git
+git clone https://github.com/ZeiffZei/anteiku-hpp.git
 cd anteiku-hpp
 php -S localhost:8000
 ```
