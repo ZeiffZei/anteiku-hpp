@@ -2,6 +2,8 @@
 
 Kalkulator Harga Pokok Penjualan (HPP) untuk produk kopi, bertema kedai Anteiku dari Tokyo Ghoul. Satu file PHP, tanpa database, tanpa dependensi.
 
+Demo: https://anteikuapplication.infy.click
+
 ## Fitur
 
 - Hitung biaya tiap bahan baku dari harga beli, isi kemasan, dan jumlah yang dipakai.
